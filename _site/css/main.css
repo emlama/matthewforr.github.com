@@ -100,12 +100,12 @@ div {
 }
 
 body {
-    background-color: #252F39;
+    background-color: #263248;
 }
 
 h1 {
     font-size: 60px;
-    color: #CCC3B2;
+    color: #F2F2ED;
     font-style: normal;
     font-weight: normal;
     margin: 0 0 10px 0;
@@ -118,12 +118,12 @@ hr {
 
 p {
     font-size: 20px;
-    color: #828A8E;
+    color: #F2F2ED;
     margin: 0;
 }
 
 p a {
-    color: #CCC3B2;
+    color: #FF3C78;
 }
 
 
